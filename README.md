@@ -1,4 +1,3 @@
-# Müşteri otomasyon sistemi Gelişime açıktır.
 
 # Çalışması için flask ve sqlalchemy modüllerini kurunuz.
 
