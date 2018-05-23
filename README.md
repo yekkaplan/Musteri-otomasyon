@@ -1,1 +1,1 @@
-# yekrepo
+# Müşteri otomasyon sistemi Gelişime açıktır.
